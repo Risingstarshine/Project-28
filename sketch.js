@@ -62,6 +62,7 @@ function draw() {
   mango2.display();
   mango3.display();
   mango4.display();
+  mango5.display();
   mango6.display();
   mango7.display();
   mango8.display();
